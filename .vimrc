@@ -4,3 +4,4 @@ set incsearch
 set encoding=utf-8
 syntax on
 set autoindent
+set cursorline
