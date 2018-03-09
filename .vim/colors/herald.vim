@@ -64,7 +64,7 @@ hi Character guifg=#6DF584 guibg=#1F1F1F guisp=#1F1F1F gui=NONE ctermfg=84 cterm
 hi Number guifg=#6DF584 guibg=#1F1F1F guisp=#1F1F1F gui=NONE ctermfg=84 ctermbg=234 cterm=NONE
 hi Boolean guifg=#E783E9 guibg=#1F1F1F guisp=#1F1F1F gui=NONE ctermfg=176 ctermbg=234 cterm=NONE
 hi Operator guifg=#FC6984 guibg=#1F1F1F guisp=#1F1F1F gui=NONE ctermfg=204 ctermbg=234 cterm=NONE
-hi CursorLine guifg=NONE guibg=#000000 guisp=#000000 gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE
+hi CursorLine guifg=#f7f9fa guibg=#0048ff guisp=#0048ff gui=NONE ctermfg=195 ctermbg=27 cterm=NONE
 hi TabLineFill guifg=NONE guibg=#000000 guisp=#000000 gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE
 hi Question guifg=#FFA500 guibg=#1F1F1F guisp=#1F1F1F gui=NONE ctermfg=214 ctermbg=234 cterm=NONE
 hi WarningMsg guifg=#000000 guibg=#FFA500 guisp=#FFA500 gui=NONE ctermfg=NONE ctermbg=214 cterm=NONE
